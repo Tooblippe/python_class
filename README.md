@@ -1,5 +1,5 @@
 Python Class
-============+
+============
 
 Port of Google Python Class to IPython notebook. Start reading it from here - http://tooblippe.github.io/python_class/
 
