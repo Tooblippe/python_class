@@ -32,7 +32,7 @@ The rendered IPython notebooks are also available via the IPython notebook viewe
 8. Utilities
 
 ## Lecture Videos day1, day2
-1.Introduction, strings
+1. [Introduction, strings](http://nbviewer.ipython.org/urls/raw.github.com/Tooblippe/python_class/master/src/training_videos.ipynb)
 2. Lists and sorting
 3. Dicts and files
 4. Regular expr
