@@ -16,13 +16,13 @@ Tip: Check out the Python Google Code University Forum to ask and answer questio
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
 
 ## About this port
-The original work was transfered to IPython noebooks as an expirement. The IPython notebooks in the '/src' directory should be used to interactively work through these classes.
+The original work was transfered to IPython notebooks as an expirement. The IPython notebooks in the '/src' directory should be used to interactively work through these classes.
 The rendered IPython notebooks are also available via the IPython notebook viewer at - [link] 
 
 
 ## Contents
 
-1. Python Set Up
+1. [Python Set Up](http://nbviewer.ipython.org/urls/raw.github.com/Tooblippe/python_class/master/src/Google_Python_1.ipynb)
 2. Introduction
 3. Strings
 4. Lists
