@@ -11,8 +11,6 @@ To get started, the Python sections are linked below -- Python Set Up to get Pyt
 
 This material was created by Nick Parlante working in the engEDU group at Google. Special thanks for the help from my Google colleagues John Cox, Steve Glassman, Piotr Kaminksi, and Antoine Picard. And finally thanks to Google and my director Maggie Johnson for the enlightened generosity to put these materials out on the internet for free under the under the Creative Commons Attribution 2.5 license -- share and enjoy!
 
-Tip: Check out the Python Google Code University Forum to ask and answer questions.
-
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
 
 ## About this port
