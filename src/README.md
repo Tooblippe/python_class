@@ -1,8 +1,8 @@
 IPython Notebooks
 =================
-This directory contains the Ipython notebooks.
+This directory contains the IPython notebooks.
 
-Start ipython in this directory with the command. If all works your browser will open with the contents shown
+Start IPython in this directory with the command. If all works your browser will open with the contents shown
 
 ```
    ipython notebook
