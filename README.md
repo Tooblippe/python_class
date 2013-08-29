@@ -26,10 +26,11 @@ The rendered IPython notebooks are also available via the IPython notebook viewe
 4. Lists
 5. Sorting
 6. Dicts and Files
-7.Regular Expressions
+7. Regular Expressions
 8. Utilities
 
 ## Lecture Videos day1, day2
+This notebook contains embedded links to all class videos in one convenient place.
 1. [Introduction, strings](http://nbviewer.ipython.org/urls/raw.github.com/Tooblippe/python_class/master/src/training_videos.ipynb)
 2. Lists and sorting
 3. Dicts and files
