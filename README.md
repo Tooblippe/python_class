@@ -21,7 +21,7 @@ The rendered IPython notebooks are also available via the IPython notebook viewe
 ## Contents
 
 1. [Python Set Up](http://nbviewer.ipython.org/urls/raw.github.com/Tooblippe/python_class/master/src/Google_Python_1.ipynb)
-2. Introduction
+2. Introduction to Python
 3. Strings
 4. Lists
 5. Sorting
